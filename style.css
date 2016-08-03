@@ -1,0 +1,72 @@
+/*font-family: 'Roboto', sans-serif;
+*/
+body {
+  background-color: #d9d9d9;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+}
+
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+a {
+  color: gray;
+}
+
+a:hover {
+  color: blue;
+}
+
+/* Custom class design */
+
+.img-round{
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 2px, 2px, 3px, #a8a3a8;
+}
+
+.card {
+  background-color: white;
+  text-decoration: none;
+  width: 500px;
+  margin: 10px auto;
+  padding: 20px 20px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  text-decoration: none;
+  padding: 0px 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+
+/* Specific adjustments */
+#skills table {
+  width: 300px;
+  margin: 10px auto;
+}
+#skills td {
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
