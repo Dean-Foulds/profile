@@ -29,6 +29,7 @@ a:hover {
   height: 120px;
   border-radius: 50%;
   border: 2px, 2px, 3px, #a8a3a8;
+  padding-left: 0;
 }
 
 .card {
