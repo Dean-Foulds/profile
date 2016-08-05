@@ -21,7 +21,7 @@ a {
 a:hover {
   color: lightgrey;
   opacity: 0.5;
-  transition-delay: 0.2s;
+  transition-delay: 0.1s;
 }
 
 /* Custom class design */
