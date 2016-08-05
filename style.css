@@ -19,8 +19,9 @@ a {
 }
 
 a:hover {
-  color: blue;
+  color: lightgrey;
   opacity: 0.5;
+  transition-delay: 0.2s;
 }
 
 /* Custom class design */
@@ -58,10 +59,6 @@ a:hover {
 
 .text-center {
   text-align: center;
-}
-
-.transition {
-  transition-delay: 0.2s;
 }
 
 /* Specific adjustments */
