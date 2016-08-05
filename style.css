@@ -46,6 +46,7 @@ a:hover {
   border: solid 1px silver;
   border-radius: 5px;
   box-shadow: 2px 2px 2px silver;
+  transition-delay: 1s;
 }
 
 .list-inline > li {
@@ -56,6 +57,10 @@ a:hover {
 
 .text-center {
   text-align: center;
+}
+
+.transition {
+  transition-delay: 0.2s;
 }
 
 /* Specific adjustments */
