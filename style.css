@@ -29,6 +29,7 @@ a:hover {
   height: 120px;
   border-radius: 50%;
   border: 2px, 2px, 3px, #a8a3a8;
+  box-shadow: 2px 2px 2px silver;
 }
 
 .card {
@@ -37,6 +38,14 @@ a:hover {
   width: 500px;
   margin: 10px auto;
   padding: 20px 20px;
+}
+
+.thumbnail {
+  width: 80px;
+  height: 80px;
+  border: solid 1px silver;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px silver;
 }
 
 .list-inline > li {
@@ -48,7 +57,6 @@ a:hover {
 .text-center {
   text-align: center;
 }
-
 
 /* Specific adjustments */
 #skills table {
