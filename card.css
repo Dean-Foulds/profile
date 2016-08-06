@@ -1,0 +1,19 @@
+.card {
+  background-color: white;
+  border-radius: 6px;
+  text-decoration: none;
+  box-shadow: 2px 2px 3px black;
+  /*width: 500px;
+  height: 200px;*/
+  margin: 10px auto;
+  padding: 20px 20px;
+}
+
+.card-small {
+  background-color: white;
+  border-radius: 6px;
+  text-decoration: none;
+  box-shadow: 2px 2px 3px black;
+  margin: 10px auto;
+  padding: 10px 10px;
+}
